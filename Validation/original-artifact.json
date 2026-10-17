@@ -1,0 +1,16 @@
+{
+  "app_version": "1.7.2",
+  "original_binary": "/System/Applications/Music.app/Contents/MacOS/Music",
+  "original_sha256": "641156f9848e64917e7ce71d675542fef03908b657cfaf710761f01f1dd888d8",
+  "arm64e_slice_sha256": "1d3da3104c7a859171c9fac77c5d16ceb78e182a2f7df8549e3ffc262874a397",
+  "metallib_path": "/System/Applications/Music.app/Contents/Resources/default.metallib",
+  "metallib_sha256": "b429427f28b7f0b70062a9321b2cd0f8827dbedbffa6c8dc5a86076f5fc78a2a",
+  "rea_version": "6.5.0",
+  "analysis_basis": [
+    "AIR shader bitcode",
+    "Objective-C metadata",
+    "ARM64 instructions",
+    "Recovered control meshes and quad data"
+  ],
+  "reconstruction_note": "Original shader bitcode was inspected during development; normal app operation uses rewritten Metal source. Original Apple binaries and shader libraries are not included."
+}
